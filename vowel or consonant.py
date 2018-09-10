@@ -1,0 +1,13 @@
+i=input()
+if(i=='a'):
+	print("vowel")
+elif(i=='e'):
+    print("vowel")
+elif(i=='i'):
+    print("vowel")
+elif(i=='o'):
+    print("vowel")
+elif(i=='u'):
+    print("vowel")
+else:
+    print("Consonant")
