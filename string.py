@@ -1,3 +1,3 @@
-z=input("")
-x=list(reversed(z))
+h=input("")
+x=list(reversed(h))
 print("\n",''.join(x))
