@@ -1,5 +1,5 @@
-q=int(input(""))
-r=int(input(""))
-for j in range(q+1,r+1):
-    if(j%2!=0):
-        print(j)
+x=int(input(""))
+z=int(input(""))
+for k in range(x+1,z):
+    if (k%2!=0):
+        print(k)
