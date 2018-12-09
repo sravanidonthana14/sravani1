@@ -1,0 +1,5 @@
+q=int(input(""))
+r=int(input(""))
+for j in range(q+1,r+1):
+    if(j%2!=0):
+        print(j)
