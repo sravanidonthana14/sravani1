@@ -1,8 +1,8 @@
-a=int(input(""))
-s=1
-i=1
+b=int(input(""))
+r=1
+j=1
 while a>0:
-    s=s*i
-    i=i+1
-    a=a-1
-print("\n",s)
+    r=r*i
+    j=j+1
+    b=b-1
+print("\n",r)
