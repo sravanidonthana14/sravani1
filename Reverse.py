@@ -1,3 +1,3 @@
-x=input("")
-y=list(reversed(x))
+q=input("")
+y=list(reversed(q))
 print("\n",''.join(y))
