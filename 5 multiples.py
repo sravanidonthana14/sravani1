@@ -1,3 +1,3 @@
-x = int(input())
-for k in range(1,5):
-   print(x*k)
+m=int(input(""))
+for j in range(1,6):
+    print(m*j)
