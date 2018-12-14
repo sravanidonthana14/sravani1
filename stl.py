@@ -1,2 +1,2 @@
-a=input("enter the number")
-print("\n",a+".")
+g=input("enter the number")
+print("\n",g+".")
