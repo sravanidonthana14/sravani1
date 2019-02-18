@@ -1,6 +1,6 @@
-h=input(" ")
-d=h[::-1]
-if h==d:
+g=input(" ")
+d=g[::-1]
+if g==d:
     print("YES")
 else:
     print("NO")
