@@ -1,6 +1,6 @@
 h=input(" ")
 d=h[::-1]
 if h==d:
-    print("yes")
+    print("YES")
 else:
-    print("no")
+    print("NO")
