@@ -1,0 +1,5 @@
+f=str(input()).split()
+q=int(f[1])
+f=str(input()).split()
+f.sort(reverse=True)
+print(f[q-1])
