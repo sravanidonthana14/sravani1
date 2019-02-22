@@ -1,8 +1,8 @@
 k=input("")
-y=input("")
-start = 0
-while start < min(len(k), len(y)):
-    if k[start] != y[start]:
+q=input("")
+start=0
+while start < min(len(k),len(q)):
+    if k[start]!=q[start]:
         break
-    start += 1
+    start+=1
 print(k[:start])
