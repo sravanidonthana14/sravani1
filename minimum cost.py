@@ -1,5 +1,5 @@
 w,y=map(str,input().split(" "))
-lx=len(w)
+lw=len(w)
 ly=len(y)
 c=0
 if ly>lw:
